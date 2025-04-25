@@ -157,7 +157,7 @@ padding: 43px 0px;
 gap: 28px;
 
 position: absolute;
-width: 1374px;
+width: 90%;
 height: 446px;
 left: calc(50% - 1374px/2);
 top: 1366px;
@@ -297,7 +297,7 @@ padding: 40px 60px;
 gap: 167px 40px;
 
 position: absolute;
-width: 1530px;
+width: 90%;
 height: 300px;
 min-height: 300px;
 left: calc(50% - 1530px/2);
